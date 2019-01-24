@@ -1,2 +1,2 @@
 # my-algorithm
-纯当联系
+纯当练习
